@@ -1,0 +1,27 @@
+head{
+    background-size: 200px;
+}
+.row {
+    block-size: 20px;
+    font-size: 19px;
+}
+
+h1{
+    font-size: 20px;
+    color: rgb(241, 231, 231);
+    margin: 0px 0px;
+    margin-block-end: -10px;
+    margin-block-start: -20px;
+    background-size: 1500px 1200px;
+    background-repeat: no-repeat;
+    font-style: italic; 
+    font-weight: bold;
+    background-image: url(./배경사진.jpg);
+}
+
+#abc{
+    font-style: sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+body { padding-top: 70px; }
