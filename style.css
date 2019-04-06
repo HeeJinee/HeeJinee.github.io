@@ -74,3 +74,20 @@ body { padding-top: 70px; }
     text-align: center;
     font-size: 80px;
 }
+
+.프로필글자 {
+    font-size: 50px;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+.프로필사진 {
+    float: left;
+    clear: both;
+}
+
+.마지막인사말 {
+    font-size: 70px;
+    font-family: 'Nanum Pen Script', cursive;
+    font-weight: bold;
+    color:rgb(255, 37, 8)
+}
