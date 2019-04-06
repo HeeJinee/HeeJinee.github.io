@@ -25,3 +25,34 @@ h1{
     margin-right: 50px;
 }
 body { padding-top: 70px; }
+.제목 {
+    font-size: 40px;
+    font-family: 'Nanum Pen Script', cursive;
+}
+.두번째제목 {
+    font-size: 40px;
+    font-family: 'Nanum Pen Script', cursive;
+}
+.so {
+    font-size: 50px;
+    color: red;
+}
+.세번째제목 {
+    font-size: 40px;
+    font-family: 'Nanum Pen Script', cursive;
+}
+#주행구간1 {
+    size: 80px 80px;
+}
+.소감 {
+    font-size: 30px;
+    font-family: 'Nanum Pen Script', cursive;
+}
+.임하는각오 {
+    font-size: 35px;
+}
+.예시 {
+    font-size: 50px;
+    font-family: 'Nanum Pen Script', cursive;
+    font-weight: bold;
+}
